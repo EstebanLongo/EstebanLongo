@@ -7,10 +7,10 @@
 💼 Trabaje en un proyecto individual y uno grupal, los cuales me ayudaron a crecer como desarrollador y a mejorar mis habilidades blandas.
 
 Aqui puedes ver mis proyectos:
-Proyecto grupal: [Terapeando]([url](https://terapeando.vercel.app/))
-Proyecto individual: [Countries App]([url](https://countries-pi-esteban.vercel.app/))
+Proyecto grupal: [Terapeando]((https://terapeando.vercel.app/))
+Proyecto individual: [Countries App]((https://countries-pi-esteban.vercel.app/))
 
-Te invito a contactarme por LinkedIn: [Esteban Longo]([url](https://www.linkedin.com/in/esteban-longo/))
+Te invito a contactarme por LinkedIn: [Esteban Longo]((https://www.linkedin.com/in/esteban-longo/))
 
 📫 Podes contactarme por email en: estebanlongo274@gmail.com
 <!--
