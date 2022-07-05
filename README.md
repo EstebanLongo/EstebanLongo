@@ -1,7 +1,12 @@
-### Hi there 👋
+# Hola 👋, mi nombre es Esteban Longo
 
+#Soy un desarrollador Full Stack de Argentina
 <!--
 **EstebanLongo/EstebanLongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Como desarrollador Full Stack tengo experiencia en el uso de JavaScript, Nodejs, React & Redux, PostgreSQL, Express, HTML y CSS. Me estoy enfocando en reunir experiencia y conocimiento en el desarrollo Front-end.
+Me considero un profesional orientado a la resolución de problemas y al cliente.
+
 
 Here are some ideas to get you started:
 
