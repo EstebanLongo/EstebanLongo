@@ -1,6 +1,6 @@
 # Hola 👋, mi nombre es Esteban Longo
 
-#Soy un desarrollador Full Stack de Argentina
+## Soy un desarrollador Full Stack de Argentina
 <!--
 **EstebanLongo/EstebanLongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
