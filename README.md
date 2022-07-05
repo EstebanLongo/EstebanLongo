@@ -6,7 +6,12 @@
 
 💼 Trabaje en un proyecto individual y uno grupal, los cuales me ayudaron a crecer como desarrollador y a mejorar mis habilidades blandas.
 
+🧠 Tecnologias aprendidas: 
+
+JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, MongoDB, TypeScript.
+
 Aqui puedes ver mis proyectos:
+
 Proyecto grupal: [Terapeando](https://terapeando.vercel.app/)
 
 Proyecto individual: [Countries App](https://countries-pi-esteban.vercel.app/)
